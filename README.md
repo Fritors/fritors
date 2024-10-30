@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on my own Android Proyect (Private)
+- 🌱 I’m currently learning Kotlin and C
+- 📝 I'm currently taking the CS50 course of Harvard in Edx
+  
